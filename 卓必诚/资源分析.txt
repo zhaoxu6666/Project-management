@@ -1,0 +1,8 @@
+前端人员 2名需要熟练掌握html css JavaScript知识
+后台 3名 会javaweb spring框架 
+数据库管理员一名
+资金需求 2-3万
+设备需求 电脑6台 要联网
+设施 工作室一间
+信息 需要获得学生以及学校信息
+技术 html css JavaScript javaweb mysql

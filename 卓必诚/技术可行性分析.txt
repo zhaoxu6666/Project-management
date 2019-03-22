@@ -1,0 +1,3 @@
+需要用到的技术可能会有
+前端 html css javascript 
+后台 javaweb  mysql spring和hebernate框架 
